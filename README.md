@@ -1,3 +1,2 @@
 # jenkins-maven-project
 
-Hello
